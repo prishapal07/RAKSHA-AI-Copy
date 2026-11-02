@@ -37,8 +37,4 @@ npm run preview
 - Responsive mobile-first styling
 - Demo SOS flow, tab navigation, sample interactions and local UI state
 
-## Important prototype limitations
 
-This is an independent frontend recreation, not Readdy's original source code. Sample names, locations, distances, responder statuses and wearable battery values are illustrative. This browser prototype does **not** place calls, send SMS, access GPS, record audio/video, encrypt or upload evidence, connect to a wearable, or dispatch volunteers. The emergency flow is simulated. Real deployments require backend services, user permissions, security review, device integrations and official emergency-service partnerships.
-
-For an actual emergency in India, call **112**.
